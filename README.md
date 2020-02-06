@@ -1,4 +1,4 @@
-# java-queue-playground
+# java-queue-playground [![Build Status](https://travis-ci.org/daggerok/java-queue-playground.svg?branch=master)](https://travis-ci.org/daggerok/java-queue-playground)
 
 ```bash
 ./mvnw
