@@ -2,5 +2,9 @@
 !.idea/
 .idea/*
 !.idea/runConfigurations/
+*.iml
+*.ipr
+*.iws
+*.log*
 /out/
 /target/
