@@ -1,0 +1,9 @@
+language: java
+jdk: openjdk7
+jobs:
+  include:
+    - stage: test
+      script: ./mvnw
+cache:
+  directories:
+    - ~/.m2
