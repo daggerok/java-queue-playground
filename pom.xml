@@ -47,7 +47,7 @@
         <project.reporting.outputEncoding>${encoding}</project.reporting.outputEncoding>
 
         <vavr.version>0.10.2</vavr.version>
-        <log4j.version>2.13.2</log4j.version>
+        <log4j.version>2.16.0</log4j.version>
         <lombok.version>1.18.10</lombok.version>
         <jupiter.version>5.6.0</jupiter.version>
         <assertj.version>3.15.0</assertj.version>
